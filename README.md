@@ -1,4 +1,4 @@
-<img src="https://github.com/imakki/Ankity/blob/master/assets/Ankit-cover.png/" width="400">
+<img src="https://github.com/imakki/Ankity/blob/master/assets/Ankit-cover.png/" width="1000">
 
 ## Hi 👋 I am Ankit!
 
