@@ -10,6 +10,11 @@ I am actively looking for oppurtunities in software/front-end developement and i
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in software dev fields.
 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakki&show_icons=true&hide_border=true&hide=contribs,prs,star&theme=radical">
+</p>
+
 [![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=imakki&hide=contribs,prs,stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imakki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
