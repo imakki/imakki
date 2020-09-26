@@ -1,5 +1,24 @@
 <img src="https://github.com/imakki/Ankity/blob/master/assets/Ankit-cover.png/" width="1000">
 
+<p align="center">
+<br/>
+<a href="https://twitter.com/Fuk_raa_">
+  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ankityadav0105">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.facebook.com/Akyben10">
+  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/kyaankit">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+</p>
+
 ## Hi 👋 I am Ankit!
 
 I am B.E graduate in computer science and love software developement and learning each day to get better at it. I love javascript and react but i am not too rigid about working on a particular tech instead i love to challenge myself and learn different tech as required by problem.
