@@ -8,4 +8,4 @@ I am actively looking for oppurtunities in software/front-end developement and i
 - 👨🏽‍💻 Currently working, learning and growing my skillset in full stack developement, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in Front-end developement.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+- 👍 Looking for opportunities to join as an intern/full time in software dev fields.
