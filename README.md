@@ -12,11 +12,11 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakki&show_icons=true&hide_border=true&hide=contribs,prs,star&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakki&show_icons=true&hide_border=true&hide=contribs,prs,stars&theme=radical">
 </p>
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=imakki&hide=contribs,prs,stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imakki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakki&layout=compact">
+</p>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aneken)](https://github.com/anuraghazra/github-readme-stats)
