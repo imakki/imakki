@@ -53,7 +53,7 @@ I am actively looking for oppurtunities in software/front-end developement and i
 </p>
 
 <!--START_SECTION:waka-->
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-785-blue)
 <!--END_SECTION:waka-->
 
 
