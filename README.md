@@ -52,10 +52,6 @@ I am actively looking for oppurtunities in software/front-end developement and i
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakki&layout=compact">
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aneken">
-</p>
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
