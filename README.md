@@ -45,7 +45,7 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakki&show_icons=true&hide_border=true&hide=contribs,prs,stars&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakki&show_icons=true&hide_border=true&hide=stars&theme=radical">
 </p>
 
 <p align="center">
