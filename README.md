@@ -56,13 +56,5 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
-```text
-🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-🌆 Daytime    179 commits    ████████░░░░░░░░░░░░░░░░░   35.03% 
-🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   29.35% 
-🌙 Night      109 commits    █████░░░░░░░░░░░░░░░░░░░░   21.33%
-
-```
-
 <!--END_SECTION:waka-->
 
