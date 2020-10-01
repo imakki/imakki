@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/kyaankit">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+<a href="https://open.spotify.com/playlist/37i9dQZF1Etk95D1JHlwAp">
   <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
