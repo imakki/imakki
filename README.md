@@ -31,13 +31,13 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 <p>
   <a href="https://www.linkedin.com/in/ankityadav0105/">
-    <img src="https://img.shields.io/badge/akanksha-raghav-386938188?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/ankityadav-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/Fuk_raa_">
-    <img src="https://img.shields.io/badge/@AkankshaRaghav9-30302f?style=flat&logo=twitter">
+    <img src="https://img.shields.io/badge/@ankityadav-30302f?style=flat&logo=twitter">
   </a>
  <a href="https://medium.com/@ankityc143">
-    <img src="https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/ankityadav-30302f?style=flat&logo=medium">
   </a>
 </p>
 
