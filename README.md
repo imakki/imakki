@@ -29,6 +29,18 @@ I am actively looking for oppurtunities in software/front-end developement and i
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in software dev fields.
 
+<p>
+  <a href="https://www.linkedin.com/in/ankityadav0105/">
+    <img src="https://img.shields.io/badge/akanksha-raghav-386938188?style=flat&logo=linkedin">
+  </a> &nbsp; 
+  <a href="https://twitter.com/Fuk_raa_">
+    <img src="https://img.shields.io/badge/@AkankshaRaghav9-30302f?style=flat&logo=twitter">
+  </a>
+ <a href="https://medium.com/@ankityc143">
+    <img src="https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium">
+  </a>
+</p>
+
 **Languages and Tools:**  
 
 <p align="center"><img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
