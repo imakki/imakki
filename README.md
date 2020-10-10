@@ -2,6 +2,9 @@
 
 <p align="center">
 <br/>
+<a href="https://dev.to/imakki">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit Yadav's DEV Profile" height="30" width="30">
+</a>
 <a href="https://twitter.com/Fuk_raa_">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
