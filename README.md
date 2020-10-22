@@ -47,7 +47,7 @@ I am actively looking for oppurtunities in software/front-end developement and i
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -55,13 +55,13 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 > 🏆 149 Contributions in the Year 2020
  > 
-> 📦 121.0 kB Used in Github's Storage 
+> 📦 121.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -114,11 +114,11 @@ Mac                      1 hr 8 mins         ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ███████████████░░░░░░░░░░   62.16% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+JavaScript               24 repos            ███████████████░░░░░░░░░░   61.54% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 ```
 
