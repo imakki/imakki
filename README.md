@@ -127,7 +127,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/imakki/imakki/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/imakki/imakki/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
