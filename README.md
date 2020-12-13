@@ -55,7 +55,7 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 > 🏆 152 Contributions in the Year 2020
  > 
-> 📦 122.9 kB Used in Github's Storage 
+> 📦 123.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
