@@ -53,13 +53,13 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 **🐱 My Github Data** 
 
-> 🏆 152 Contributions in the Year 2020
+> 🏆 153 Contributions in the Year 2020
  > 
 > 📦 123.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
