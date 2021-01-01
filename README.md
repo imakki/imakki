@@ -53,7 +53,7 @@ I am actively looking for oppurtunities in software/front-end developement and i
 
 **🐱 My Github Data** 
 
-> 🏆 163 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 124.0 kB Used in Github's Storage 
  > 
